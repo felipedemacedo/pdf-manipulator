@@ -1,0 +1,11 @@
+C:\TRT\bin\Debug\netcoreapp2.2\TRT.deps.json
+C:\TRT\bin\Debug\netcoreapp2.2\TRT.runtimeconfig.json
+C:\TRT\bin\Debug\netcoreapp2.2\TRT.runtimeconfig.dev.json
+C:\TRT\bin\Debug\netcoreapp2.2\TRT.dll
+C:\TRT\bin\Debug\netcoreapp2.2\TRT.pdb
+C:\TRT\obj\Debug\netcoreapp2.2\TRT.csprojAssemblyReference.cache
+C:\TRT\obj\Debug\netcoreapp2.2\TRT.csproj.CoreCompileInputs.cache
+C:\TRT\obj\Debug\netcoreapp2.2\TRT.AssemblyInfoInputs.cache
+C:\TRT\obj\Debug\netcoreapp2.2\TRT.AssemblyInfo.cs
+C:\TRT\obj\Debug\netcoreapp2.2\TRT.dll
+C:\TRT\obj\Debug\netcoreapp2.2\TRT.pdb
